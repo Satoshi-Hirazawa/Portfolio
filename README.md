@@ -24,14 +24,6 @@ VisualBeatsの自社コンテンツとして制作。
 Unityのゲーム実装、Arduino IR LEDの制御、IR Cameraでのセンシング実装を担当。
 ```
 
-## Ball Throwing Game UST-10LX
-[![Ball Throwing Game UST-10LX](https://github-production-user-asset-6210df.s3.amazonaws.com/3499002/258703496-56fa6887-35db-4227-8928-424eabfbf853.jpg)](https://youtu.be/IEs96jX6Lq0)
-```
-VisualBeatsの自社コンテンツとして制作。
-画面に登場するエイリアンにボールを投げて倒していくゲーム。
-Unityのゲーム実装、北陽センサでのセンシング実装を担当。
-```
-
 ## Move myCobot with Unity
 [![Move myCobot with Unity](https://github-production-user-asset-6210df.s3.amazonaws.com/3499002/258703000-9977da92-103f-4d16-8bba-d33382b4cd48.PNG)](https://youtu.be/0xy6RIyEv9Y)
 ```
@@ -63,6 +55,14 @@ Unityのゲーム実装、ArduinoRFIDのセンシング実装を担当。
 ```
 VisualBeatsの自社コンテンツとして制作。  
 Vuforiaを使ったマーカ検出型ARアプリ。
+```
+
+## Ball Throwing Game UST-10LX
+[![Ball Throwing Game UST-10LX](https://github-production-user-asset-6210df.s3.amazonaws.com/3499002/258703496-56fa6887-35db-4227-8928-424eabfbf853.jpg)](https://youtu.be/IEs96jX6Lq0)
+```
+VisualBeatsの自社コンテンツとして制作。
+画面に登場するエイリアンにボールを投げて倒していくゲーム。
+Unityのゲーム実装、北陽センサでのセンシング実装を担当。
 ```
 
 ## AzureKinect VFX Test
